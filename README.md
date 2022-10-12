@@ -1,6 +1,7 @@
-<img src="banner.png" alt="banner">
+<img src="Banner.png" alt="banner">
 ### Hi there 👋
 
+<img src="frontem.png" alt="frontem">
 <!--
 **emilyenegrette/emilyenegrette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
