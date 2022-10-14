@@ -1,4 +1,6 @@
 <img src="Banner.png" alt="banner">
+Todo sueño tiene alguna complicación y la mía era no saber programar. 
+
 
 ## Hola! 👋 <br />
 ### Mi nombre es Emily Negrette. 👩‍💻 <br />
