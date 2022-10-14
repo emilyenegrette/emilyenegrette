@@ -8,22 +8,9 @@ Soy una **Front-End Developer/Web Developer y una aprendiz entusiasta!** ✍️ 
 Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la creación de diversas plataformas desarrolladas con diferentes frameworks. 🤩✨
 
 ### Conecta conmigo! :handshake: :globe_with_meridians: 
-[Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas:
-[](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif).
-
+[Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas: 
+<br />
+<br />
+![](we-can-code-this.gif)
 > El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
 
-<!--
-**emilyenegrette/emilyenegrette** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
