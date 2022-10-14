@@ -6,7 +6,7 @@ Soy una Front-End Developer apasionada por el cambio. Desde pequeña siempre so�
 
 En esta página podrás encontrar algunos de mis trabajos como Front-End Developer/Web Developer, desarrollando diversas tecnologías como HTML5, CSS3, JavaScript, NodeJs, React, Trello, Asana, Git, Github, Scrum, Firebase y muchas más, porque siempre estoy en constante aprendizaje y ansiando saber muchísimos más Frameworks y Herramientas. 
 
-<img src="frontem.png" alt="frontem">
+
 <!--
 **emilyenegrette/emilyenegrette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
