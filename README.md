@@ -2,6 +2,7 @@
 
 Hola!  Mi nombre es Emily Negrette.
 
+[My LinkedIn](https://https://www.linkedin.com/in/emily-negrette/).
 
 <!--
 **emilyenegrette/emilyenegrette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
