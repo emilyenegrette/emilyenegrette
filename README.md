@@ -7,8 +7,9 @@
 Soy una **Front-End Developer/Web Developer y una aprendiz entusiasta!** ✍️ <br />
 Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la creación de diversas plataformas desarrolladas con diferentes frameworks. 🤩✨
 
-### Te invito a visitar mis distintas redes de contacto!
-[Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/).
+### Conecta conmigo! :handshake: :globe_with_meridians: 
+[Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas:
+[](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 > El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
 
