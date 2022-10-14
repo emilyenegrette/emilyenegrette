@@ -1,11 +1,11 @@
 <img src="Banner.png" alt="banner">
 
-##Hola! 👋 <br />
+## Hola! 👋 <br />
 Mi nombre es Emily Negrette. 👩‍💻 <br />
 Soy Front-End Developer/Web Developer y una aprendiz entusiasta! ✍️ <br />
 Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la creación de diversas plataformas que ayuden a desarrollar y a desenvolver a diversas empresas, emprendimientos y a cumplir sueños! 🤩✨
 
-######Te invito a visitar mis distintas redes de contacto!
+###### Te invito a visitar mis distintas redes de contacto!
 [Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/).
 
 <!--
