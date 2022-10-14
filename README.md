@@ -8,6 +8,8 @@ Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la cre
 ### Te invito a visitar mis distintas redes de contacto!
 [Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/).
 
+> El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
+
 <!--
 **emilyenegrette/emilyenegrette** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
