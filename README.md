@@ -1,11 +1,15 @@
 <img src="Banner.png" alt="banner">
 
-Hola!  Mi nombre es Emily Negrette.
+Hola! :wave: 
+Mi nombre es Emily Negrette. :woman_technologist: 
+Soy Front-End Developer/Web Developer y una aprendiz entusiasta! :writing_hand:
+Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la creación de diversas plataformas que ayuden a desarrollar y a desenvolver a diversas empresas, emprendimientos y a cumplir sueños! :star_struck: ✨
 
-[My LinkedIn](https://https://www.linkedin.com/in/emily-negrette/).
+Te invito a visitar mis distintas redes de contacto!
+[Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/).
 
 <!--
-**emilyenegrette/emilyenegrette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emilyenegrette/emilyenegrette** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
