@@ -11,5 +11,6 @@ Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la cre
 [Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas: 
 
 ![gifcito](we-can-code-this.gif)
+![gifcito](code-this.gif)
 > El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
 
