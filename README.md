@@ -26,6 +26,6 @@ Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la cre
 ## Markdown Links 
 ![MD-Links](md.gif)
 
-![gifcito](code-this.gif)
+
 > El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
 
