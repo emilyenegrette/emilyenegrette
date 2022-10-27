@@ -10,6 +10,22 @@ Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la cre
 ### Conecta conmigo! :handshake: :globe_with_meridians: 
 [Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas: 
 
+### Conoce un poco mas sobre mis proyectos!
+## Trivia
+![trivia](trivia.gif)
+
+## Card Validation
+![Card](card.gif)
+
+## Data Lovers
+![data](data.gif)
+
+## Red Social
+![Social-Network](social.gif)
+
+## Markdown Links 
+![MD-Links](md.gif)
+
 ![gifcito](code-this.gif)
 > El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
 
