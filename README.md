@@ -15,10 +15,10 @@ Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la cre
 ![trivia](trivia-act11.gif)        ![Card](card-act11.gif)
 
 ### Data Lovers && Social Network
-![data](data-act1.gif)            ![Social-Network](social-act1.gif)
+![data](data-act11.gif)            ![Social-Network](social-act11.gif)
 
 ### Markdown Links 
-![MD-Links](md-act1.gif)
+![MD-Links](md-act11.gif)
 
 
 > El arte desafía a la tecnología y la tecnología inspira el arte <br /> -John Lasseter
