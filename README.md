@@ -12,10 +12,10 @@ Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la cre
 
 ## Conoce un poco mas sobre mis proyectos!
 ### Trivia && Card Validation
-![trivia](trivia-act1.gif) ![Card](card-act1.gif)
+![trivia](trivia-act1.gif)        ![Card](card-act1.gif)
 
 ### Data Lovers && Social Network
-![data](data-act1.gif) ![Social-Network](social-act1.gif)
+![data](data-act1.gif)            ![Social-Network](social-act1.gif)
 
 ### Markdown Links 
 ![MD-Links](md-act1.gif)
