@@ -1,7 +1,8 @@
 <img src="Banner.png" alt="banner">
  
 ## Hello World! 👋  <br />
-### As a highly motivated and experienced Front-End Developer <br /> I am excited to bring my skills and passion to your organization. With over a year of experience in the industry, I have honed my skills in HTML, CSS, JavaScript, Node.js, React.js, WordPress, WooCommerce, Firebase, Firestore, SQL, Mailfloss, Figma, Trello, Scrum, Git, and GitHub, and Asana. 👩‍💻
+
+As a highly motivated and experienced Front-End Developer <br /> I am excited to bring my skills and passion to your organization. With over a year of experience in the industry, I have honed my skills in HTML, CSS, JavaScript, Node.js, React.js, WordPress, WooCommerce, Firebase, Firestore, SQL, Mailfloss, Figma, Trello, Scrum, Git, and GitHub, and Asana. 👩‍💻
 
 Currently based in Chicago, I am committed to staying up-to-date with the latest technologies and trends in the industry to provide exceptional results for my clients. 📍
 
