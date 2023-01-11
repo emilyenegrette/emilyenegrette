@@ -1,16 +1,20 @@
 <img src="Banner.png" alt="banner">
+ 
+## Hello World! 👋  <br />
+### **As a highly motivated and experienced Front-End Developer**, I am excited to bring my skills and passion to your organization. With over a year of experience in the industry, I have honed my skills in HTML, CSS, JavaScript, Node.js, React.js, WordPress, WooCommerce, Firebase, Firestore, SQL, Mailfloss, Figma, Trello, Scrum, Git, and GitHub, and Asana.
 
-**En el 2017, mi vida tomó un giro inesperado, me fui de mi país (Venezuela) y migré a Chile con un montón de metas por cumplir.** Migrar no fue sencillo, implicaba dejar a mi familia, a mis amigos y todo lo que conocía por seguir un sueño, encontrar un mejor futuro. En el camino, hubieron muchas complicaciones, un estallido social y una pandemia mundial que nos obligaba a todos a permanecer en casa. Mucho se hablaba del teletrabajo y sus complicaciones, pero poco se hablaba de las diferentes oportunidades que se iban creando en la era digital. <br /> En mi búsqueda por encontrar aquello que me apasionaba, encontré un espacio en el mundo tecnológico, comencé mis estudios en Marketing Digital y mi proyecto final, resultó ser la creación de una página web. La verdad es que mucho no tenía que ver con lo que estaba estudiando, sin embargo, fue esa simple coincidencia la que me llevó a convertirme en **la programadora que soy hoy en día.**   
+Currently based in Chicago, I am committed to staying up-to-date with the latest technologies and trends in the industry to provide exceptional results for my clients.
 
-## Hola mundo! 👋  <br />
-### Mi nombre es Emily Negrette y te invito a conocer un poco más de mí. 👩‍💻 <br />
-Soy una **Front-End Developer/Web Developer y una aprendiz entusiasta!** ✍️ <br />
-Me encanta aprender nuevas tecnologías, el proceso creativo y sobretodo, la creación de diversas plataformas desarrolladas con diferentes frameworks. 🤩✨
+My ability to work well in a team, attention to detail and strong work ethic allows me to deliver high-quality projects on time and within budget. I am also highly adaptable and can quickly learn new technologies and processes to meet the needs of any project.
 
-### Conecta conmigo! :handshake: :globe_with_meridians: 
+In addition to my technical skills, I am an empathetic and approachable professional who prioritizes clear and effective communication with my colleagues and clients.
+
+I am excited about the opportunity to bring my passion and expertise to your organization and contribute to the growth and success of your team.
+
+### Let's connect! :handshake: :globe_with_meridians: 
 [Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas: 
 
-## Conoce un poco mas sobre mis proyectos!
+## Get to know the projects I worked on!
 ### Trivia && Card Validation
 ![trivia](trivia-act11.gif)        ![Card](card-act11.gif)
 
