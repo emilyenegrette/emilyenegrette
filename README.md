@@ -13,7 +13,7 @@ In addition to my technical skills, I am an empathetic and approachable professi
 I am excited about the opportunity to bring my passion and expertise to your organization and contribute to the growth and success of your team. 🙋‍♀️
 
 ### Let's connect! :handshake: :globe_with_meridians: 
-[Mi perfil de LinkedIn](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas: 
+[LinkedIn Profile](https://https://www.linkedin.com/in/emily-negrette/). :earth_americas: 
 
 ## Get to know the projects I worked on!
 ### Trivia && Card Validation
